@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "PeaceBot",
+  "version": "5.9.23.28",
+  "description": "AI-powered conflict analysis for web content",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
