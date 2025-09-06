@@ -50,4 +50,4 @@ It empowers users to **explore, analyze, and verify information about global con
 
 ## Final Note  
 
-> PeaceBot isn’t just a project—it’s a **step toward a future where AI becomes a force for peace, truth, and awareness.** 
+> PeaceBot isn’t just a project - it’s a **step toward a future where AI becomes a force for peace, truth, and awareness.** 
