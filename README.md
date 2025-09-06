@@ -1,31 +1,53 @@
-# React + TypeScript + Vite
+# 🌍 PeaceBot – AI-Powered Chrome Extension  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PeaceBot is an **AI-powered Chrome extension** built to educate users on Global Conflicts/Wars.
+It empowers users to **explore, analyze, and verify information about global conflicts** in real-time.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+- **Ask Me Anything Bot** – Query about ongoing global conflicts.  
+- **Real-time Monitoring** – Track updates on conflicts worldwide.  
+- **News Verification** – AI-powered credibility check for conflict-related news.  
+- **Peace Impact Analysis** – Understand humanitarian and peace implications.  
+- **(Coming Soon)** Interactive Global Conflict Map.  
+- **(Coming Soon)** Education Hub with curated resources.  
+- **(Coming Soon)** AI-based Image Analysis for fake/real news detection.  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+##  Installation  
+
+1. Open **Chrome Browser**.  
+2. Go to **Extensions** → enable **Developer Mode**.  
+3. Click **Load unpacked** → select the `peacebot/` folder.  
+4. PeaceBot will appear in your extensions bar 🎉.  
+5. Click the icon to start exploring global conflicts.  
+
+---
+
+## Usage  
+
+- 📌 Pin the PeaceBot extension to your browser.  
+- Open it anytime to:  
+  - Ask questions about ongoing conflicts.  
+  - Monitor real-time updates.  
+  - Verify credibility of news.  
+  - Analyze peace impacts.  
+  - *(Future)* Switch to **Map View** or **Education Hub**.  
+
+---
+
+## Roadmap  
+
+- Core Extension Features (Ask, Monitor, Verify).  
+- Add Global Conflict Map (interactive).  
+- Add Education Hub with learning resources.  
+- Add AI-powered image analysis.  
+
+---
+
+## Final Note  
+
+> PeaceBot isn’t just a project—it’s a **step toward a future where AI becomes a force for peace, truth, and awareness.** 
