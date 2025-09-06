@@ -7,10 +7,10 @@ It empowers users to **explore, analyze, and verify information about global con
 
 ## 🚀 Features  
 
-- **Ask Me Anything Bot** – Query about ongoing global conflicts.  
-- **Real-time Monitoring** – Track updates on conflicts worldwide.  
-- **News Verification** – AI-powered credibility check for conflict-related news.  
-- **Peace Impact Analysis** – Understand humanitarian and peace implications.  
+- **Ask Me Anything Bot** - Query about ongoing global conflicts.  
+- **Real-time Monitoring** - Track updates on conflicts worldwide.  
+- **News Verification** - AI-powered credibility check for conflict-related news.  
+- **Peace Impact Analysis** - Understand humanitarian and peace implications.  
 - **(Coming Soon)** Interactive Global Conflict Map.  
 - **(Coming Soon)** Education Hub with curated resources.  
 - **(Coming Soon)** AI-based Image Analysis for fake/real news detection.  
@@ -20,8 +20,8 @@ It empowers users to **explore, analyze, and verify information about global con
 ##  Installation  
 
 1. Open **Chrome Browser**.  
-2. Go to **Extensions** → enable **Developer Mode**.  
-3. Click **Load unpacked** → select the `peacebot/` folder.  
+2. Go to **Extensions** ---> enable **Developer Mode**.  
+3. Click **Load unpacked** ---> select the `peacebot/` folder.  
 4. PeaceBot will appear in your extensions bar 🎉.  
 5. Click the icon to start exploring global conflicts.  
 
