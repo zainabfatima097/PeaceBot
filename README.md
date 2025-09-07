@@ -1,4 +1,4 @@
-# 🌍 PeaceBot – AI-Powered Chrome Extension  
+# 🌍 PeaceBot - An AI-Powered Chrome Extension  
 
 PeaceBot is an **AI-powered Chrome extension** built to educate users on Global Conflicts/Wars.
 It empowers users to **explore, analyze, and verify information about global conflicts** in real-time.  
